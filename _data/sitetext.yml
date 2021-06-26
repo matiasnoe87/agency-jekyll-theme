@@ -33,12 +33,18 @@ Nos tomamos cada proyecto como un desafío, y buscamos que el cliente sea parte 
         icon: fab fa-unity
 
   portfolio:
-    title: "Proyectos"
-    text: ""
-    section: Proyectos
-    image: assets/img/timeline/1.jpg
+    - title: "Proyectos"
+      text: ""
+      section: Proyectos
+      image: assets/img/timeline/1.jpg
         alt:
-    closebutton: "Close Project"
+      closebutton: "Close Project"
+    - title: "Proy"
+      text: ""
+      section: Proy
+      image: assets/img/timeline/1.jpg
+        alt:
+      closebutton: "Close Project"
 
   timeline:
     title: "About"
