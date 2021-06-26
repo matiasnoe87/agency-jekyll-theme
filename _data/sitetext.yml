@@ -11,8 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Un pensamiento que conjuga luz, espacio y materia,
-en búsqueda del equilibrio expresivo-funcional
+    title: Estudio Arquitectura
     text: Estudio Diseñarte | Arquitectura
     button: Tell Me More
     buttonlink: "#services"
