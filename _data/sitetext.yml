@@ -17,21 +17,20 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Proyectos"
+    title: "Servicios"
     text: ""
-    section: Proyectos
+    section: Servicios
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        image: assets/img/timeline/2.jpg
-        alt:
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "DISEÑO ARQUITECTÓNICO"
+        desc: "Ofrecemos servicios integrales de arquitectura para todo tipo de proyectos, desarrollando propuestas creativas e innovadoras que se ajusten a las necesidades y posibilidades de cada cliente.
+Nos tomamos cada proyecto como un desafío, y buscamos que el cliente sea parte activa en el desarrollo de la idea para brindarles un servicio totalmente personalizado."
+        icon: fas fa-pencil-ruler #find more at https://fontawesome.com/icons
+      - title: "DIRECCIÓN DE OBRA / EJECUTIVA"
+        desc: "Estas etapas tienen por objeto optimizar, reducir costos de la construcción y uso de materiales. Para ello se pueden obtener y personalizar, todas las mediciones que la constructora requiera para dicha optimización, obtenidas del modelo tridimensional"
+        icon: fas fa-tools
+      - title: "IMAGENES 3D"
+        desc: "Los renders fotorrealistas son una herramienta esencial para visualizar y comunicar proyectos e ideas, y especialmente para contar historias a través de las imágenes."
+        icon: fab fa-unity
 
   portfolio:
     title: "Portfolio"
