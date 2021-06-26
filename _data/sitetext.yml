@@ -30,7 +30,7 @@ Nos tomamos cada proyecto como un desafío, y buscamos que el cliente sea parte 
         icon: fas fa-tools
       - title: "IMAGENES 3D"
         desc: "Los renders fotorrealistas son una herramienta esencial para visualizar y comunicar proyectos e ideas, y especialmente para contar historias a través de las imágenes."
-        icon: fab fa-unity
+        icon: fas fa-unity
 
   portfolio:
     title: "Portfolio"
